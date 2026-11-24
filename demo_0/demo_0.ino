@@ -57,8 +57,8 @@ void loop() {
   Serial.print(",");
   Serial.print(magy);
   Serial.print(",");
-  Serial.print(magx);
-  Serial.println(",");
+  Serial.println(magz);
+  //Serial.println(",");\
 
   //Serial.println("----------");
 
